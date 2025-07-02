@@ -1,0 +1,27 @@
+{
+  "copyright": " 2024 jlrn@ ISC License",
+  "company": "up.edu.mx",
+  "shiftlevels": [ "Alt+Control", "Shift+Alt+Control" ],
+  "keys": [
+    { "pos": "1", "shortcutPos": "1", "letters": [ "¡", "ª" ], "capslock": false },
+    { "pos": "2", "shortcutPos": "2", "letters": [ "ß", "§" ], "capslock": false },
+    { "pos": "3", "shortcutPos": "3", "letters": [ "©", "¢" ], "capslock": false },
+    { "pos": "4", "shortcutPos": "4", "letters": [ "®", "£" ], "capslock": false },
+    { "pos": "5", "shortcutPos": "5", "letters": [ "€", "¥" ], "capslock": false },
+    { "pos": "9", "shortcutPos": "9", "letters": [ "‘", "“" ], "capslock": false },
+    { "pos": "0", "shortcutPos": "0", "letters": [ "’", "”" ], "capslock": false },
+    { "pos": "-", "shortcutPos": "-", "letters": [ "–", "—" ], "capslock": false },
+    { "pos": "+", "shortcutPos": "+", "letters": [ "×", "÷" ], "capslock": false },
+    { "pos": "W", "shortcutPos": "W", "letters": [ "å", "Å" ], "capslock": true },
+    { "pos": "[", "shortcutPos": "[", "letters": [ "«", "‹" ], "capslock": false },
+    { "pos": "]", "shortcutPos": "]", "letters": [ "»", "›" ], "capslock": false },
+    { "pos": "L", "shortcutPos": "L", "letters": [ "ø", "Ø" ], "capslock": true },
+    { "pos": ";", "shortcutPos": ";", "letters": [ "¶", "°" ], "capslock": false },
+    { "pos": "\\", "shortcutPos": "\\", "letters": [ "¬", "±" ], "capslock": false },
+    { "pos": "Z", "shortcutPos": "Z", "letters": [ "æ", "Æ" ], "capslock": true },
+    { "pos": "C", "shortcutPos": "C", "letters": [ "ç", "Ç" ], "capslock": true },
+    { "pos": ",", "shortcutPos": ",", "letters": [ "‚", "„" ], "capslock": false },
+    { "pos": ".", "shortcutPos": ".", "letters": [ "·", "•" ], "capslock": false },
+    { "pos": "/", "shortcutPos": "/", "letters": [ "¿", "º" ], "capslock": false }
+  ]
+}

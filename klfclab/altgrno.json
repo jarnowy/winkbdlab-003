@@ -1,0 +1,10 @@
+{
+  "shiftlevels": [ "Alt+Control", "Shift+Alt+Control" ],
+  "keys": [
+    { "pos": "W", "shortcutPos": "W", "letters": [ "å", "Å" ], "capslock": true },
+    { "pos": "L", "shortcutPos": "L", "letters": [ "ø", "Ø" ], "capslock": true },
+    { "pos": "Z", "shortcutPos": "Z", "letters": [ "æ", "Æ" ], "capslock": true },
+    { "pos": ",", "shortcutPos": ",", "letters": [ "‚", "„" ], "capslock": false },
+    { "pos": ".", "shortcutPos": ".", "letters": [ "·", "•" ], "capslock": false }
+  ]
+}

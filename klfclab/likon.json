@@ -1,0 +1,9 @@
+{
+  "fullName": "linikon",
+  "shiftlevels": [ "Alt+Control", "Shift+Alt+Control" ],
+  "localeId": "0000476",
+  "keys": [
+    { "pos": "W", "shortcutPos": "W", "letters": [ "ō", "Ō" ], "capslock": true },
+    { "pos": "L", "shortcutPos": "L", "letters": [ "ē", "Ē" ], "capslock": true }
+  ]
+}

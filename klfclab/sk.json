@@ -1,0 +1,11 @@
+{
+  "fullName": "sk",
+  "shiftlevels": [ "Alt+Control", "Shift+Alt+Control" ],
+  "keys": [
+    { "pos": "W", "shortcutPos": "W", "letters": [ "å", "Å" ], "capslock": true },
+    { "pos": "L", "shortcutPos": "L", "letters": [ "ø", "Ø" ], "capslock": true },
+    { "pos": "Z", "shortcutPos": "Z", "letters": [ "æ", "Æ" ], "capslock": true },
+    { "pos": "C", "shortcutPos": "C", "letters": [ "ç", "Ç" ], "capslock": true },
+    { "pos": "X", "shortcutPos": "X", "letters": [ "œ", "Œ" ], "capslock": true }
+  ]
+}
