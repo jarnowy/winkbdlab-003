@@ -12,7 +12,7 @@
     { "pos": "3", "shortcutPos": "3", "letters": [ "3", "#", "" ], "capslock": false },
     { "pos": "4", "shortcutPos": "4", "letters": [ "4", "$", "" ], "capslock": false },
     { "pos": "5", "shortcutPos": "5", "letters": [ "5", "%", "" ], "capslock": false },
-    { "pos": "6", "shortcutPos": "6", "letters": [ "6", "^", "", "", "cdk:^" ], "capslock": false },
+    { "pos": "6", "shortcutPos": "6", "letters": [ "6", "^", "", "cdk:^", "" ], "capslock": false },
     { "pos": "7", "shortcutPos": "7", "letters": [ "7", "&", "" ], "capslock": false },
     { "pos": "8", "shortcutPos": "8", "letters": [ "8", "*", "" ], "capslock": false },
     { "pos": "9", "shortcutPos": "9", "letters": [ "9", "(", "", "‘", "“" ], "capslock": false },
